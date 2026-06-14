@@ -1,0 +1,6 @@
+# Never commit personal learnings
+~/.claude-learnings/
+
+# OS
+.DS_Store
+Thumbs.db
