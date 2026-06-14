@@ -43,7 +43,7 @@ Three commands:
 
 ```bash
 # 1. Clone the skill
-git clone https://github.com/yourusername/claude-learnings ~/.claude-learnings
+git clone https://github.com/amoghacloud/claude-learnings ~/.claude-learnings
 
 # 2. Install (symlinks the skill into Claude Code)
 cd ~/.claude-learnings && bash install.sh
